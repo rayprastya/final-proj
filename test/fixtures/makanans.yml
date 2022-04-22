@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nama_makanan: MyString
+  deskripsi: MyString
+  kategori_id: 1
+  harga: 1
+
+two:
+  nama_makanan: MyString
+  deskripsi: MyString
+  kategori_id: 1
+  harga: 1
